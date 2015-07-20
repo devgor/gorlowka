@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Самооборона Горловки</string>
+    <string name="title_activity_browser">Самооборона Горловки</string>
+    <string name="gorlowka1">gorlowka</string>
+    <string name="gorlowka2">gorlowka2</string>
+    <string name="reload">Обновить</string>
+
+</resources>
